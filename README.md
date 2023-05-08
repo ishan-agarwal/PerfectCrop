@@ -10,7 +10,7 @@ Link to website -> https://perfect-crop.onrender.com/
 
 ## Build
 
-To deploy this project run
+To build this project run
 
 ```bash
   python3 -m pip install -r requirements.txt
